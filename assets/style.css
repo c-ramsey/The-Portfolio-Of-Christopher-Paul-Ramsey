@@ -1,0 +1,14 @@
+*{ 
+
+}
+
+body {
+    background-color: rgb(255, 243, 225);
+}
+
+.header{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+   flex-direction: row;
+   align-items: end;
+}
