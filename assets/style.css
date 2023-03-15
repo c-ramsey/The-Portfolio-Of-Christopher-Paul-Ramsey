@@ -54,7 +54,7 @@ ul{
     flex-direction: row;
     align-items: flex-end;
     width: 600px;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 li{
@@ -84,16 +84,27 @@ li{
     height: 350px;
     background-color: cornsilk;
     background-image: url(poo-removebg-preview.png);
-    background-repeat: repeat;
-    opacity: calc(.4);
+   
 }
+    
 
 .bio{
     display: flex;
+    flex-direction: column;
+    color: cornsilk;
+    font-size: large;
+    font-weight: 600;
 
 
 
 }
+.a-boot{
+    color: coral;
+    text-shadow: black 3px 2px 4px;
+}
+
+
+
 
 .projects{
     height: 400px;
@@ -106,7 +117,7 @@ li{
 }
 
 h2{
-   color: cornsilk;
+   color: coral;
    text-shadow: black 3px 2px 4px;
 }
 
@@ -186,6 +197,11 @@ img{
     border-color: coral;
     
 }
+
+@media only screen 
+    and (device-width: 390px) 
+    and (device-height: 844px) 
+    and (-webkit-device-pixel-ratio: 3) 
 
 
 
