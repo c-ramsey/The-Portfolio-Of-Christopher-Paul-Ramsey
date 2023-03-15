@@ -14,19 +14,19 @@ header {
     flex-direction: row;
     justify-content: space-between;
     padding: 0px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: coral;
     color: whitesmoke;
-    
+
 }
 
 
-img{
+img {
     display: flex;
     align-content: flex-start;
     margin-right: 20px;
     height: 100px;
- }
+}
 
 .greet {
 
@@ -40,19 +40,19 @@ img{
     flex-direction: row;
 }
 
-p{
+p {
     margin: 0%;
     font-size: xx-large;
     color: #ffffff;
 }
 
-.links{
+.links {
     display: flex;
     flex-direction: row;
     align-items: flex-end;
 }
 
-ul{
+ul {
     display: flex;
     flex-direction: row;
     align-items: flex-end;
@@ -60,7 +60,7 @@ ul{
     justify-content: space-evenly;
 }
 
-li{
+li {
     font-size: 35px;
     padding: 5px;
     text-decoration: none;
@@ -68,15 +68,15 @@ li{
 }
 
 .header h1 {
-   
+
     display: flex;
     flex-direction: column;
     font-size: 24px;
     color: #d9dcd6;
-    
+
 }
 
-.chris{
+.chris {
     text-decoration: darkkhaki;
     margin: 0px;
     margin-top: 10px;
@@ -84,57 +84,57 @@ li{
     text-shadow: 2px 2px 2px black;
 }
 
-.banner{
+.banner {
     display: flex;
     height: 350px;
     background-color: cornsilk;
     background-image: url(poo-removebg-preview.png);
-   
-}
-    
 
-.bio{
+}
+
+
+.bio {
     display: flex;
     flex-direction: column;
-    
-    
+
+
 
 
 }
-.a-boot{
+
+.a-boot {
     color: coral;
     text-shadow: black 3px 2px 4px;
 }
 
 
 
-.projects{
+.projects {
     height: 400px;
     display: flex;
     flex-direction: column;
     text-align: center;
-    
-    
-    
+
+
+
 }
 
-h2{
-   color: coral;
-   text-shadow: black 3px 2px 4px;
+h2 {
+    color: coral;
+    text-shadow: black 3px 2px 4px;
 }
 
-.proj-card-container{
+.proj-card-container {
 
     display: flex;
     flex-direction: row;
     justify-content: space-evenly
-    
 }
 
 
 
 
-.proj-1{
+.proj-1 {
     width: 300px;
     height: 200px;
     display: flex;
@@ -151,21 +151,21 @@ h2{
 
 }
 
-h3{
+h3 {
     text-align: center;
     color: cornsilk;
     text-shadow: black 2px 1px 3px;
 }
 
 
-img{
+img {
     max-width: 100%;
     margin-top: 2px;
     margin-bottom: 5px;
     padding: 5px 5px 0px 0px;
 }
 
-.proj-2{
+.proj-2 {
 
     width: 300px;
     height: 150px;
@@ -178,12 +178,12 @@ img{
     border-style: solid;
     border-color: coral;
 
-    
+
 }
 
-.proj-3{
+.proj-3 {
 
-    
+
     width: 300px;
     height: 150px;
     display: flex;
@@ -194,5 +194,5 @@ img{
     border: 10px;
     border-style: solid;
     border-color: coral;
-    
+
 }
