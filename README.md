@@ -16,7 +16,7 @@ Create, from scratch, a portofolio to showcase what I've learned and will contin
 
 ## Screenshot
 
-![Screenshot](TPOCPR.png)
+![Screenshot](./assets/TPOCPR.png)
 
 ## Action Taken
 
